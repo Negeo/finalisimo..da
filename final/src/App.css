@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-around
+
+}
+.App h1 {
+    text-align: center;
+}
+  
+
+  

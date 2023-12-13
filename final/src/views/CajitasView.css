@@ -1,0 +1,11 @@
+.CajitasView {
+    max-width: 90%;
+    margin: auto;
+    text-align: center;
+
+}
+  
+.CajitasView img {
+    display: block;
+    max-width: 100%;
+}
